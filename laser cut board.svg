@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="board v03 cutoutv3.svg">
+   sodipodi:docname="board v03 cutoutv2.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="346.37088"
-     inkscape:cy="522.37901"
+     inkscape:zoom="2"
+     inkscape:cx="392.27365"
+     inkscape:cy="527.87014"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -195,7 +195,7 @@
        transform="matrix(0.49315068,0,0,0.49315068,337.13283,552.95122)" />
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:0.1825;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.09253472;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path2995-76-3"
        sodipodi:cx="58.5"
        sodipodi:cy="49.5"
@@ -205,7 +205,7 @@
        transform="matrix(0.97260788,0,0,0.97260788,354.10244,529.21809)" />
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:0.1825;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.09277566;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path2995-76-22"
        sodipodi:cx="58.5"
        sodipodi:cy="49.5"
