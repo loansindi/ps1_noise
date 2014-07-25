@@ -1,4 +1,4 @@
-ps1_noise
+Noise-O-Tron
 =========
 
 A small, cheap optical theremin that can be assembled with no soldering.
