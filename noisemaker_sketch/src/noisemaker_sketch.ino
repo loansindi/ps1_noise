@@ -27,7 +27,7 @@ void setup() {
 unsigned int pitch;
 
 void loop() {
-        pitch = 100 * analogRead(1);
+        pitch = 10 * analogRead(1);
         beep (3, 4, pitch, 5);
 
   // This function takes three arguments, as copied from the internet
