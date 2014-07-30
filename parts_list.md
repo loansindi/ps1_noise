@@ -11,7 +11,7 @@ RNF18FTD10K0CT-ND - 10k resistor, through hole
 
 Parts from other vendors
 ========
-[Samtec](http://www.samtec.com) SSQ-104-04-T-S
+[Samtec](http://www.samtec.com) SSQ-104-04-T-S x 2
 
 
 ---
