@@ -1,3 +1,9 @@
+#include <Arduino.h>
+
+void setup();
+void loop();
+void beep (unsigned char speakerPin, unsigned char speakerPin2, int frequencyInHertz, long timeInMilliseconds);
+#line 1 "src/noisemaker_sketch.ino"
    /* This is a project by Derek Bever with the goal of creating a small, inexpensive electronic widget
    that is easy to assemble for someone with limited electronics experience. The physical form of the 
    project as a whole is a 2"x2" laser-cut acrylic/wood/cardstock perfboard. Components are inserted
