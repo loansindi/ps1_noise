@@ -1,13 +1,18 @@
 You need one of each of the following parts per noisemaker
 
 Digikey part numbers:
+========
+445-2525-3-ND - Piezo buzzer  
+ATTINY45-20PU-ND - ATTiny45 DIP-8  
+952-1735-1-ND - Battery holder  
+P189-ND - CR2032 battery  
+PDV-P8103-ND - Photocell  
+RNF18FTD10K0CT-ND - 10k resistor, through hole  
 
-445-2525-3-ND - Piezo buzzer
-ATTINY45-20PU-ND - ATTiny45 DIP-8
-952-1735-1-ND - Battery holder
-P189-ND - CR2032 battery
-PDV-P8103-ND - Photocell
-RNF18FTD10K0CT-ND - 10k resistor, through hole
+Parts from other vendors
+========
+[Samtec](http://www.samtec.com) SSQ-104-04-T-S x 2
+
 
 ---
 
