@@ -9,4 +9,6 @@ Components are pushed through the top of this perfboard and the leads are twiste
 Laser Cutting
 =========
 
+[Board Art](https://raw.githubusercontent.com/loansindi/ps1_noise/master/laser_cut_board.png)
+
 In the root of this project there are two PDF files - ten_boards.pdf and thirty_boards.pdf - these are exported from inkscape with vector lines 0.001" in width. I use these files on an Epilog machine - you may need to generate your own for other print driver-based machines.
