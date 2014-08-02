@@ -19,10 +19,10 @@ Parts from other vendors
 
 Each noisemaker will also require:
 
-2x M2 screws, long enough to reach through your board material
+2x M2 screws, long enough to reach through your board material 
 2x M2 nuts
 
 ---
 
-I used 1/8" acrylic for the boards. Any reasonably stiff material will work. I found that transparent colors of acrylic
+I used 1/8 inch acrylic for the boards. Any reasonably stiff material will work (I'd like to see an implication cut from card stock and 'drilled' with a hole punch). I found that transparent colors of acrylic
 work *much* better than opaque - being able to see the board art from both sides is very useful.
