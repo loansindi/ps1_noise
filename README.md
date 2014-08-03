@@ -24,3 +24,14 @@ The first challenge to overcome with this device is the fact that DIP packages h
 For the second go, we're using pin headers from Samtec, and trimming off the 3 unused pins. These are a little harder to twist together than the solid-core wire legs, but should be significantly faster to prepare for the event.
 
 The Samtec headers listed in the BOM have sufficiently long legs, and are the correct size - they do, however, have a little trouble holding onto ICs. For the latest batch, we hot glued the headers onto the microcontrollers once the latter were programmed.
+
+ToDo
+=========
+
+1. Create info card
+    * Page with information on 'how to' noisemaker 
+    * github link
+    * cost per unit
+    * getting materials
+    * required prep work
+    * hand these mofos out at every event to get other people using the noisemaker
