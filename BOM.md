@@ -8,7 +8,7 @@ ATTINY45-20PU-ND - ATTiny45 DIP-8
 P189-ND - CR2032 battery  
 PDV-P8103-ND - Photocell  
 RNF18FTD10K0CT-ND - 10k resistor, through hole  
-3x JW60ZT0R00CT-ND - 0ohm resistor, through hole
+3x JW60ZT0R00CT-ND - 0ohm resistor, through hole 
 ED4308-ND - DIP socket
 
 Parts from other vendors
