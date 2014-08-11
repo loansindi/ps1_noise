@@ -1,10 +1,12 @@
 Noise-O-Tron
 ==========
 
-A small, cheap optical theremin that can be assembled with no soldering.
+A small, cheap (~$5/piece if you build 100 at a time) optical theremin that can be assembled with no soldering.
 
-The idea is to laser cut a custom perfboard from acrylic, heavy cardstock or other suitable material.
+The idea is to fabricate a custom perfboard from acrylic, heavy cardstock or other suitable material.
 Components are pushed through the top of this perfboard and the leads are twisted together to form a circuit.
+
+I've been using laser-cut acrylic, but anything from CNC routing to an inkjet printer should be sufficient (I think heavy cardstock + hole punch would be very cool)
 
 Laser Cutting
 =========
