@@ -19,7 +19,7 @@ Parts from other vendors
 
 Each noisemaker will also require:
 
-2x M2 screws, long enough to reach through your board material 
+2x M2 screws, long enough to reach through your board material (I used 3/8" screws for 1/8" acrylic)
 2x M2 nuts
 
 ---
