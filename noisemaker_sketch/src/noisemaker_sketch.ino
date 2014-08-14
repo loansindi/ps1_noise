@@ -17,6 +17,8 @@
 
 // Crappy piezo optical theremin. Depends on attiny85 arduino hardware files.
 
+#include <math.h>
+
 void setup() {
 	pinMode(4, OUTPUT); // We use pins 0 and 1 as differential outputs for the piezo buzzer
 	pinMode(3, OUTPUT); // this offers improved loudness compared to a single pin
@@ -27,7 +29,7 @@ void setup() {
 unsigned int pitch;
 
 void loop() {
-        pitch = 10 * analogRead(1);
+        pitch = 25 * log(analogRead(1));
         beep (3, 4, pitch, 5);
 
   // This function takes three arguments, as copied from the internet
@@ -38,11 +40,15 @@ void loop() {
   // shorter lengths produce a glissando effect, longer lengths create a distinct series of steps
 
 }
-  void beep (unsigned char speakerPin, unsigned char speakerPin2, int frequencyInHertz, long timeInMilliseconds)
+  void beep (unsigned char speakerPin, unsigned char speakerPin2, int frequency, long timeInMilliseconds)
 {	 // http://web.media.mit.edu/~leah/LilyPad/07_sound_code.html
+
+int frequencyNumerator = 5000; //this variable determines the general range of noise - higher numbers result in a lower frequency range
+int delayMultiplier = 75; //this variable determines how long beep() runs before returning to loop(). higher values produce more audibly 'stepped' noise - set just right you can get some cool glissando effects
+
           int x;	 
-          long delayAmount = (long)(1000000/frequencyInHertz);
-          long loopTime = (long)((timeInMilliseconds*1000)/(delayAmount));
+          long delayAmount = (long)(frequencyNumerator/frequency);
+          long loopTime = (long)((timeInMilliseconds*delayMultiplier)/(delayAmount));
           for (x=0;x<loopTime;x++)	 
           {	 
               digitalWrite(speakerPin,HIGH);
