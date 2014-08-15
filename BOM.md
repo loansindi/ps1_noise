@@ -19,8 +19,10 @@ Parts from other vendors
 
 Each noisemaker will also require:
 
-2x M2 screws, long enough to reach through your board material (I used 3/8" screws for 1/8" acrylic)
-2x M2 nuts
+2x M2 screws, long enough to reach through your board material (I used 3/8" screws for 1/8" acrylic)  
+*Available from Digikey in multiples of 100 - H739-ND*  
+2x M2 nuts  
+*Available from Digikey in multiples of 100 - H761-ND*  
 
 ---
 
