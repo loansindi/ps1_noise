@@ -38,5 +38,5 @@ ToDo
     * required prep work
     * hand these mofos out at every event to get other people using the noisemaker
 2. Create assembly photo series
-    * Just a photo of each step - to live in the repo to simply assembly for others using the project
+    * Just a photo of each step - to live in the repo to simplify assembly for others using the project
 3. 
