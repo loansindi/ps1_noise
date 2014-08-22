@@ -1,5 +1,6 @@
 Noise-O-Tron
 ==========
+![Image of assembled unit](https://raw.githubusercontent.com/loansindi/ps1_noise/master/images/recent_revision.jpg)
 
 A small, cheap (~$5/piece if you build 100 at a time) optical theremin that can be assembled with no soldering.
 
