@@ -27,6 +27,8 @@ For the second go, we're using pin headers from Samtec, and trimming off the 3 u
 
 The Samtec headers listed in the BOM have sufficiently long legs, and are the correct size - they do, however, have a little trouble holding onto ICs. For the latest batch, we hot glued the headers onto the microcontrollers once the latter were programmed.
 
+---
+
 The very latest iteration is using a wire-wrap DIP socket (see BOM) that works very well. Trim the 3 unused pins and away you go.
 
 ToDo
