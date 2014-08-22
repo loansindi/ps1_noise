@@ -23,9 +23,9 @@ The first challenge to overcome with this device is the fact that DIP packages h
 
 ---
 
-~~For the second go, we're using pin headers from Samtec, and trimming off the 3 unused pins. These are a little harder to twist together than the solid-core wire legs, but should be significantly faster to prepare for the event.
+For the second go, we're using pin headers from Samtec, and trimming off the 3 unused pins. These are a little harder to twist together than the solid-core wire legs, but should be significantly faster to prepare for the event.
 
-The Samtec headers listed in the BOM have sufficiently long legs, and are the correct size - they do, however, have a little trouble holding onto ICs. For the latest batch, we hot glued the headers onto the microcontrollers once the latter were programmed.~~
+The Samtec headers listed in the BOM have sufficiently long legs, and are the correct size - they do, however, have a little trouble holding onto ICs. For the latest batch, we hot glued the headers onto the microcontrollers once the latter were programmed.
 
 The very latest iteration is using a wire-wrap DIP socket (see BOM) that works very well. Trim the 3 unused pins and away you go.
 
