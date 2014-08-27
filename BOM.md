@@ -26,5 +26,5 @@ Each noisemaker will also require:
 
 ---
 
-I used 1/8 inch acrylic for the boards. Any reasonably stiff material will work (I'd like to see an implication cut from card stock and 'drilled' with a hole punch). I found that transparent colors of acrylic
+I used 1/8 inch acrylic for the boards. Any reasonably stiff material will work (I'd like to see an implementation cut from card stock and 'drilled' with a hole punch). I found that transparent colors of acrylic
 work *much* better than opaque - being able to see the board art from both sides is very useful.
