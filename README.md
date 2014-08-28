@@ -38,9 +38,8 @@ ToDo
 1. Create info card
     * Page with information on 'how to' noisemaker 
     * github link
-    * cost per unit
-    * getting materials
-    * required prep work
+    * Materials - costs, sourcing, prep work
+    * photos or diagrams of process?
     * hand these mofos out at every event to get other people using the noisemaker
 2. Create assembly photo series
     * Just a photo of each step - to live in the repo to simplify assembly for others using the project
