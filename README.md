@@ -9,28 +9,21 @@ Components are pushed through the top of this perfboard and the leads are twiste
 
 I've been using laser-cut acrylic, but anything from CNC routing to an inkjet printer should be sufficient (I think heavy cardstock + hole punch would be very cool)
 
-Laser Cutting
+Making the Boards
 =========
 
 ![Board Art](https://raw.githubusercontent.com/loansindi/ps1_noise/master/laser_cut_board.png)
 
-In the root of this project there are two PDF files - ten_boards.pdf and thirty_boards.pdf - these are exported from inkscape with vector lines 0.001" in width. I use these files on an Epilog machine - you may need to generate your own for other print driver-based machines.
+I cut my boards on an Epilog Mini30 laser engraver. Any similar CO2 laser would work just as well. This SVG is set up for correct cut/raster behavior in the Epilog print driver - tweaks may be required for other machines.
 
+Other methods that might be worth investigating are CNC routers and even inkjet printers (Cardstock + hole punch!).
 
-Assembly
+Prep work
 =========
 
-The first challenge to overcome with this device is the fact that DIP packages have very short legs. In the first round of noisemakers I made, we soldered extensions cut from solid-core wire onto the 5 pins used. This sucked.
+One of the first obvious problems is how to get the legs of the IC through the board so they can be twisted. This is currently solved with a wire-wrap DIP socket. There are three unused pins on the IC (pins 1, 4 and 5) and these pins should be trimmed on the sockets so they're not in the way. Wear your eye protection!
 
----
-
-For the second go, we're using pin headers from Samtec, and trimming off the 3 unused pins. These are a little harder to twist together than the solid-core wire legs, but should be significantly faster to prepare for the event.
-
-The Samtec headers listed in the BOM have sufficiently long legs, and are the correct size - they do, however, have a little trouble holding onto ICs. For the latest batch, we hot glued the headers onto the microcontrollers once the latter were programmed.
-
----
-
-The very latest iteration is using a wire-wrap DIP socket (see BOM) that works very well. Trim the 3 unused pins and away you go.
+Programming the microcontrollers benefits from a ZIF socket - I like to have the circuit built on a breadboard/protoboard around the socket, so as each chip is programmed the functionality is instantly verified. I program the microcontrollers by calling avrdude directly and uploading the compiled hex file. This is much faster than using the Arduino IDE, which compiles each time you press upload.
 
 ToDo
 =========
