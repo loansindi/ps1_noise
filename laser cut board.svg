@@ -76,9 +76,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8704568"
-     inkscape:cx="350.54088"
-     inkscape:cy="508.85545"
+     inkscape:zoom="16.237756"
+     inkscape:cx="314.84852"
+     inkscape:cy="517.91959"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -380,27 +380,30 @@
          y="202.13408"
          id="tspan3866"
          style="font-size:19.17857361px;font-weight:normal">Holder</tspan></text>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.69;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3868"
-       width="6.7857141"
-       height="22.321428"
-       x="-121.17332"
-       y="594.85614"
-       transform="matrix(0.73946993,-0.67318959,0.67318959,0.73946993,0,0)" />
-    <text
-       xml:space="preserve"
-       style="font-size:63.65287781px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       x="595.09149"
-       y="119.50368"
-       id="text3870"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.67318959,0.73946993,-0.73946993,0.67318959,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3872"
-         x="595.09149"
+    <g
+       id="g3532">
+      <rect
+         transform="matrix(0.73946993,-0.67318959,0.67318959,0.73946993,0,0)"
+         y="594.85614"
+         x="-121.17332"
+         height="22.321428"
+         width="6.7857141"
+         id="rect3868"
+         style="fill:none;stroke:#000000;stroke-width:0.69;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         transform="matrix(0.67318959,0.73946993,-0.73946993,0.67318959,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3870"
          y="119.50368"
-         style="font-size:5.30440617px;font-weight:normal">Resistor</tspan></text>
+         x="595.09149"
+         style="font-size:63.65287781px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+         xml:space="preserve"><tspan
+           style="font-size:5.30440617px;font-weight:normal"
+           y="119.50368"
+           x="595.09149"
+           id="tspan3872"
+           sodipodi:role="line">Resistor</tspan></text>
+    </g>
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#000000;stroke-width:0.69;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
