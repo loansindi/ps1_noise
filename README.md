@@ -12,6 +12,10 @@ I've been using laser-cut acrylic, but anything from CNC routing to an inkjet pr
 Making the Boards
 =========
 
+There are several SVG files in this repository. laser_cut_board_paths.svg has had all objects converted to paths and should be ready to import into whatever vector graphics program you use.
+
+laser_cut_board_source.svg is an inkscape SVG with text as text objects - use this one to spin your own version of the board.
+
 ![Board Art](https://raw.githubusercontent.com/loansindi/ps1_noise/master/laser_cut_board.png)
 
 I cut my boards on an Epilog Mini30 laser engraver. Any similar CO2 laser would work just as well. This SVG is set up for correct cut/raster behavior in the Epilog print driver - tweaks may be required for other machines.
