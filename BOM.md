@@ -4,7 +4,7 @@ Digikey part numbers:
 ========
 490-4698-ND - Piezo buzzer  
 ATTINY45-20PU-ND - ATTiny45 DIP-8  
-**Mouser has the ATTiny45 for significantly cheaper - $66/100 instead of $108/100. Mouser PN: 556-ATTINY45-20PU**
+**Mouser has the ATTiny45 for significantly cheaper - $66/100 instead of $108/100. Mouser PN: 556-ATTINY45-20PU**  
 952-1735-1-ND - Battery holder  
 P189-ND - CR2032 battery  
 PDV-P8103-ND - Photocell  
