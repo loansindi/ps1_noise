@@ -29,7 +29,7 @@ void setup() {
 unsigned int pitch;
 
 void loop() {
-        pitch = 15 * log(analogRead(1));
+        pitch = analogRead(1)/10;
         beep (3, 4, pitch, 5);
 
         // This function takes three arguments, as copied from the internet
@@ -43,7 +43,7 @@ void loop() {
 void beep (unsigned char speakerPin, unsigned char speakerPin2, int frequency, long timeInMilliseconds) {
         // http://web.media.mit.edu/~leah/LilyPad/07_sound_code.html
 
-        int frequencyNumerator = 5000; //this variable determines the general range of noise - higher numbers result in a lower frequency range
+        int frequencyNumerator = 4000; //this variable determines the general range of noise - higher numbers result in a lower frequency range
         int delayMultiplier = 100; //this variable determines how long beep() runs before returning to loop(). higher values produce more audibly 'stepped' noise - set just right you can get some cool glissando effects
 
         int x;	 
